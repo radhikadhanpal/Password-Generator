@@ -25,7 +25,6 @@ Package Manager: npm
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [React](https://react.dev/)
 * [Javascript](https://www.javascript.com/)
 
